@@ -1,2 +1,2 @@
-Write-Host "Version 2"
+Write-Host "Version 3"
 Write-Host "Hello World"
